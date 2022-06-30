@@ -1,0 +1,11 @@
+numpy
+pytest
+torch==1.9.0+cu111
+transformers==4.6.1
+
+# For ROUGE
+sumeval
+janome
+
+# For tokenizer using SentencePiece
+sentencepiece==0.1.96

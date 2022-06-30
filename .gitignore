@@ -1,0 +1,17 @@
+__pycache__
+
+# environment
+.env
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Unit test
+**/.pytest_cache/
+
+# Data
+**/data/
+checkpoints/
